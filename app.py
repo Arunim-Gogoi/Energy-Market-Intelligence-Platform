@@ -100,7 +100,7 @@ else:
 st.write(f"{oil_txt.capitalize()}. {ren_txt}")
 
 st.subheader("🔎 Ask the Energy Market Assistant (RAG)")
-st.caption("Answers are grounded in the reports in /docs — swap in real ones anytime.")
+st.caption("")
 
 if "index" not in st.session_state:
     with st.spinner("Building knowledge index..."):
