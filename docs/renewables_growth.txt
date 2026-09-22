@@ -1,0 +1,19 @@
+Renewable Capacity Growth Trends
+
+Solar photovoltaic and onshore wind have become the cheapest source of new electricity
+generation in most markets, driven by steep cost declines in panel manufacturing, larger
+turbine designs, and improved capacity factors. China remains the largest single market for
+new renewable capacity additions, followed by the United States, India, and the European
+Union, with policy support mechanisms such as auctions, tax credits, and renewable
+purchase obligations playing a major role in project bankability.
+
+Grid integration challenges are a growing bottleneck: intermittency from solar and wind
+requires expanded transmission capacity, flexible generation or storage to balance supply,
+and in some markets curtailment of renewable output during periods of oversupply. Battery
+storage costs have fallen sharply, making short-duration storage increasingly viable
+alongside renewable projects, though long-duration storage solutions remain more costly
+and less mature.
+
+Offshore wind is expanding beyond its traditional strongholds in Northern Europe into new
+markets in Asia and the United States, though project timelines are sensitive to supply
+chain constraints for specialized vessels, turbine components, and port infrastructure.

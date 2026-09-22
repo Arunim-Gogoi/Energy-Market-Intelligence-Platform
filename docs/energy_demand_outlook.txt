@@ -1,0 +1,17 @@
+Global Energy Demand Outlook
+
+Total primary energy demand continues to grow, driven mainly by population growth and rising
+living standards in emerging economies, particularly in South and Southeast Asia and parts
+of Africa. Electricity demand is growing faster than overall energy demand due to
+electrification of transport, heating, and industrial processes, along with rising demand
+from data centers and artificial intelligence workloads.
+
+Natural gas is often positioned as a transition fuel, offering lower emissions than coal for
+power generation while providing dispatchable capacity to complement variable renewables.
+However, gas demand growth varies significantly by region, with strong growth in Asian LNG
+importing markets contrasted against flat or declining demand in parts of Europe following
+efficiency measures and accelerated renewable deployment after supply disruptions.
+
+Industrial energy demand, particularly from steel, cement, and chemicals, remains difficult
+to decarbonize and is a focus area for emerging technologies such as green hydrogen, carbon
+capture, and electrification of high-temperature heat processes.
