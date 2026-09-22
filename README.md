@@ -6,7 +6,6 @@ both a local knowledge base and live web search.
 
 **[Live demo →](https://energy-market-intelligence-platform-hdaawum42sfefwvnqsab6q.streamlit.app/)**
 
-![screenshot](docs/Screenshot 2026-09-22 154910.png)
 
 ## What it does
 
